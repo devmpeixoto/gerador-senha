@@ -11,7 +11,7 @@ Esse é projeto básico aplicado HTML + CSS + JS para gerar senhas aleatórias.
 <br>
 
 ## 🚀 Tecnologias
-Esse protótipo foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+Esse protótipo foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
