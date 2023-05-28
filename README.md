@@ -6,7 +6,7 @@
 <br>
 
 ## 🖥️ O Projeto
-Esse é projeto básico aplicado HTML + CSS + JS para gerar senhas aleatórias.
+Este é um projeto básico aplicado HTML + CSS + JS para gerar senhas aleatórias.
 <br>
 <br>
 
