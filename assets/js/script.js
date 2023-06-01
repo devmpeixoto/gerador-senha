@@ -34,10 +34,12 @@ function generatePassword() {
     //sliderElement é o valor numérico que aparece ao deslizar a barra do RANGE
     pass += charset.charAt(Math.floor(Math.random() * n));
   }
-
   containerPassword.classList.remove("hide");
   password.innerHTML = pass;
   novaSenha = pass;
-
 }
 
+function copyPassword() {
+  navigator.clipboard.writeText(novaSenha);
+  alert("Senha copiada com sucesso!!!");
+}
