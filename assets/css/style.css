@@ -120,6 +120,7 @@ body {
 
 .password:hover {
     transform: scale(1.004);
+    cursor: pointer;
 }
 
 .tooltip {
